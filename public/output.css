@@ -228,9 +228,6 @@
   .border-gray-300 {
     border-color: var(--color-gray-300);
   }
-  .bg-amber-400 {
-    background-color: var(--color-amber-400);
-  }
   .bg-blue-600 {
     background-color: var(--color-blue-600);
   }
@@ -278,12 +275,6 @@
   }
   .text-gray-600 {
     color: var(--color-gray-600);
-  }
-  .text-red-500 {
-    color: var(--color-red-500);
-  }
-  .text-red-900 {
-    color: var(--color-red-900);
   }
   .text-white {
     color: var(--color-white);
